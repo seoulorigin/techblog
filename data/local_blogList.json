@@ -1,3 +1,6 @@
 [
-   
+    {
+        "name": "[date]_[title]_[category]_[thumnail]_[description]_[author].md",
+        "download_url": "/blog/[date]_[title]_[category]_[thumnail]_[description]_[author].md"
+    },
 ]
